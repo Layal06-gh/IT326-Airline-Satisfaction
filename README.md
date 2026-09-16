@@ -3,7 +3,7 @@
 ## Project Description
 This project applies data mining techniques to the Airline Passenger 
 Satisfaction dataset to solve a classification and clustering problem. 
-The goal is to predict whether a passenger is satisfied, neutral, or 
+The goal is to predict whether a passenger is satisfied or neutral/
 dissatisfied with their flight experience (classification), and to 
 group passengers into meaningful clusters based on their service 
 ratings and travel characteristics (clustering).
